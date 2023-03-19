@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-challenge-posts/static/css/main.e2dfa88a.css",
+    "main.js": "/react-challenge-posts/static/js/main.365a506f.js",
+    "static/js/939.f2577247.chunk.js": "/react-challenge-posts/static/js/939.f2577247.chunk.js",
+    "static/js/90.9a42d900.chunk.js": "/react-challenge-posts/static/js/90.9a42d900.chunk.js",
+    "static/js/98.457bc881.chunk.js": "/react-challenge-posts/static/js/98.457bc881.chunk.js",
+    "static/js/50.a080ba53.chunk.js": "/react-challenge-posts/static/js/50.a080ba53.chunk.js",
+    "static/js/588.ebfbbce6.chunk.js": "/react-challenge-posts/static/js/588.ebfbbce6.chunk.js",
+    "static/js/787.6ca0e6a1.chunk.js": "/react-challenge-posts/static/js/787.6ca0e6a1.chunk.js",
+    "static/js/27.847ff573.chunk.js": "/react-challenge-posts/static/js/27.847ff573.chunk.js",
+    "static/media/default-avatar.png": "/react-challenge-posts/static/media/default-avatar.10691648d79aa2f92514.png",
+    "index.html": "/react-challenge-posts/index.html",
+    "main.e2dfa88a.css.map": "/react-challenge-posts/static/css/main.e2dfa88a.css.map",
+    "main.365a506f.js.map": "/react-challenge-posts/static/js/main.365a506f.js.map",
+    "939.f2577247.chunk.js.map": "/react-challenge-posts/static/js/939.f2577247.chunk.js.map",
+    "90.9a42d900.chunk.js.map": "/react-challenge-posts/static/js/90.9a42d900.chunk.js.map",
+    "98.457bc881.chunk.js.map": "/react-challenge-posts/static/js/98.457bc881.chunk.js.map",
+    "50.a080ba53.chunk.js.map": "/react-challenge-posts/static/js/50.a080ba53.chunk.js.map",
+    "588.ebfbbce6.chunk.js.map": "/react-challenge-posts/static/js/588.ebfbbce6.chunk.js.map",
+    "787.6ca0e6a1.chunk.js.map": "/react-challenge-posts/static/js/787.6ca0e6a1.chunk.js.map",
+    "27.847ff573.chunk.js.map": "/react-challenge-posts/static/js/27.847ff573.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2dfa88a.css",
+    "static/js/main.365a506f.js"
+  ]
+}
